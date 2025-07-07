@@ -6,7 +6,7 @@
 
 在尝试了各种 VPN 和代理之后，我终于找到了稳定可靠的解决方案 —— [**9Proxy 官网**](https://the9proxy.short.gy/github-homepage-lucas888) 。
 
-🌱 [**点这里，直接进入购买页面！**](https://the9proxy.short.gy/medium-pricing-lucas888)
+🌱 [**点这里，直接进入购买页面！**](https://the9proxy.short.gy/github-pricing-lucas888)
 
 ## 为什么是住宅代理而不是 VPN？
 
